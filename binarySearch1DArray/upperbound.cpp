@@ -1,5 +1,5 @@
 //upper bound -> smallest index such that arr[indx]>x
-
+//ub=upper_bound(arr.begin(), arr.end(), n)-arr.begin();
 #include<bits/stdc++.h>
 using namespace std;
 
